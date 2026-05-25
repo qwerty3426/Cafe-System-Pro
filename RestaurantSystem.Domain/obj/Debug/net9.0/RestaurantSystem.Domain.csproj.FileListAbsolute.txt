@@ -9,3 +9,4 @@ C:\Users\artem\RestaurantSystem\RestaurantSystem.Domain\obj\Debug\net9.0\Restaur
 C:\Users\artem\RestaurantSystem\RestaurantSystem.Domain\obj\Debug\net9.0\refint\RestaurantSystem.Domain.dll
 C:\Users\artem\RestaurantSystem\RestaurantSystem.Domain\obj\Debug\net9.0\RestaurantSystem.Domain.pdb
 C:\Users\artem\RestaurantSystem\RestaurantSystem.Domain\obj\Debug\net9.0\ref\RestaurantSystem.Domain.dll
+C:\Users\artem\RestaurantSystem\RestaurantSystem.Domain\obj\Debug\net9.0\RestaurantSystem.Domain.sourcelink.json

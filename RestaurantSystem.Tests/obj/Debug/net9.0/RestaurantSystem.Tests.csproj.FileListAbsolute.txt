@@ -100,3 +100,4 @@ C:\Users\artem\RestaurantSystem\RestaurantSystem.Tests\obj\Debug\net9.0\refint\R
 C:\Users\artem\RestaurantSystem\RestaurantSystem.Tests\obj\Debug\net9.0\RestaurantSystem.Tests.pdb
 C:\Users\artem\RestaurantSystem\RestaurantSystem.Tests\obj\Debug\net9.0\RestaurantSystem.Tests.genruntimeconfig.cache
 C:\Users\artem\RestaurantSystem\RestaurantSystem.Tests\obj\Debug\net9.0\ref\RestaurantSystem.Tests.dll
+C:\Users\artem\RestaurantSystem\RestaurantSystem.Tests\obj\Debug\net9.0\RestaurantSystem.Tests.sourcelink.json
